@@ -1,0 +1,16 @@
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\bin\Debug\net5.0\teste.exe
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\bin\Debug\net5.0\teste.deps.json
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\bin\Debug\net5.0\teste.runtimeconfig.json
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\bin\Debug\net5.0\teste.runtimeconfig.dev.json
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\bin\Debug\net5.0\teste.dll
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\bin\Debug\net5.0\ref\teste.dll
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\bin\Debug\net5.0\teste.pdb
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\obj\Debug\net5.0\teste.csproj.AssemblyReference.cache
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\obj\Debug\net5.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\obj\Debug\net5.0\teste.AssemblyInfoInputs.cache
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\obj\Debug\net5.0\teste.AssemblyInfo.cs
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\obj\Debug\net5.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\obj\Debug\net5.0\teste.dll
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\obj\Debug\net5.0\ref\teste.dll
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\obj\Debug\net5.0\teste.pdb
+C:\Users\Irene Alves\Desktop\trabalhossharp\teste\teste\obj\Debug\net5.0\teste.genruntimeconfig.cache
